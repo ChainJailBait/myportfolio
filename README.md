@@ -2,7 +2,7 @@ This is my whatever
 =====================
 
 ## Table of Contents
-Sushiparty
+sushi
 - Installation
 - Important Notes
 - Best Sushi in Town
