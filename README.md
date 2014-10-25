@@ -2,7 +2,8 @@ This is my whatever
 =====================
 
 ## Table of Contents
-pizza ist gut
+sushi
+
 - Installation
 - Important Notes
 - Best Sushi in Town
